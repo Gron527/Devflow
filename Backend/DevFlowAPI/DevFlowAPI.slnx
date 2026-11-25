@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="DevFlowAPI.Tests/DevFlowAPI.Tests.csproj" Id="725ceb1b-ec0d-422e-bbce-209ab5ffcaa7" />
   <Project Path="DevFlowAPI/DevFlowAPI.csproj" />
 </Solution>
